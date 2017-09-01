@@ -1,0 +1,11 @@
+C:\Development\Entity\FluentAPI\FluentAPI\bin\Debug\FluentAPI.exe.config
+C:\Development\Entity\FluentAPI\FluentAPI\bin\Debug\FluentAPI.exe
+C:\Development\Entity\FluentAPI\FluentAPI\bin\Debug\FluentAPI.pdb
+C:\Development\Entity\FluentAPI\FluentAPI\bin\Debug\EntityFramework.dll
+C:\Development\Entity\FluentAPI\FluentAPI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\Entity\FluentAPI\FluentAPI\bin\Debug\EntityFramework.xml
+C:\Development\Entity\FluentAPI\FluentAPI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\Entity\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csprojResolveAssemblyReference.cache
+C:\Development\Entity\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.CoreCompileInputs.cache
+C:\Development\Entity\FluentAPI\FluentAPI\obj\Debug\FluentAPI.exe
+C:\Development\Entity\FluentAPI\FluentAPI\obj\Debug\FluentAPI.pdb
